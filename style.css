@@ -1,0 +1,43 @@
+body{
+    background-color: #f4f4f4;
+    font-family: sans-serif;
+    margin: 1px;
+    padding: 20px;
+}
+
+h1{
+    color: #169429;
+    text-align: center;
+}
+
+h2 {
+    color: #169428;
+    text-align: justify;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: wavy;
+}
+
+ul, ol {
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+
+form {
+    background-color: #f4f4f4;
+    padding: auto;
+    border-radius: 10px;
+    width: 350px;
+    align-items: center;
+    
+}
+
+p{
+    color: black;
+    text-align: justify;
+    font-family: sans-serif;
+
+}
